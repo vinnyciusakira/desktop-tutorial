@@ -12,5 +12,7 @@ Aplicação de API Rest Usando PHP em banco de dados MySQL. Sistemas de gerencia
 - Atualizar os dados da tarefa.
 - Excluir alguma tarefa.
 
-Segue o link com o vídeo mostrando a funcionalidade do trabalho:
-https://youtu.be/iBC8yvl9X90
+Clique na imagem do youtube para ter acesso ao vídeo:
+
+<a href="https://youtu.be/iBC8yvl9X90"> <img src="https://cdn.discordapp.com/attachments/1125487567257739356/1125959772022255657/yt_1200_preview_rev_1.png" align=left width=300 height=200></a> 
+
