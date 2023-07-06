@@ -1,8 +1,8 @@
 <a href="https://laravel.com"> <img src="https://cdn.discordapp.com/attachments/1125487567257739356/1125950651155881984/1200px-Laravel.svg_preview_rev_1.png" width=260 height=200></a> <a href="https://www.php.net"> <img src="https://cdn.discordapp.com/attachments/1125487567257739356/1125951200420970547/download_preview_rev_1_1.png" width=250 height=200></a> <a href="https://code.visualstudio.com"> <img src="https://cdn.discordapp.com/attachments/1125487567257739356/1125953674926112778/channels4_profile_preview_rev_1.png" align=left width=250 height=200></a> 
 
-Trabalho da matéria de Criação de API Rest básica com PHP
+<h1>Trabalho da matéria de Criação de API Rest básica com PHP</h1>
 
-Professor João Vitor da Costa Andrade
+<h1>Professor João Vitor da Costa Andrade</h1>
 
 Aplicação de API Rest Usando PHP em banco de dados MySQL. Sistemas de gerenciamento de tarefas utilizando laravel. O sistema é capaz de:
 
@@ -12,7 +12,12 @@ Aplicação de API Rest Usando PHP em banco de dados MySQL. Sistemas de gerencia
 - Atualizar os dados da tarefa.
 - Excluir alguma tarefa.
 
+  <h1>Instruções de como fazer o Sistema</h1>
+
 Clique na imagem do youtube para ter acesso ao vídeo:
 
+https://youtu.be/iBC8yvl9X90
+
 <a href="https://youtu.be/iBC8yvl9X90"> <img src="https://cdn.discordapp.com/attachments/1125487567257739356/1125959772022255657/yt_1200_preview_rev_1.png" align=left width=300 height=200></a> 
+
 
